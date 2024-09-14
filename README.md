@@ -1,4 +1,4 @@
-# blog_service practiceblog-serviceblog-service
+# blog_service practice
 ├── configs-配置文件
 
 ├── docs-文档集合
